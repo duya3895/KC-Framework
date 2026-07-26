@@ -187,6 +187,13 @@ python tools\gen_image.py -o logo.ppm -t smiley -W 128 -H 128
 
 ## 📄 许可证
 
+本项目采用 [GNU General Public License v3.0](LICENSE) (GPL-3.0) 开源。
+
+- ✅ 你可以自由使用、修改、分发
+- ✅ 你可以商用
+- ⚠️ **如果你修改了代码并分发，必须同样以 GPL-3.0 开源**
+- ⚠️ **必须保留版权声明和许可证副本** 📄 许可证
+
 随便用，欢迎二次开发。
 
 ## 🤝 贡献
